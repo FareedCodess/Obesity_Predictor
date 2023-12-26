@@ -3,4 +3,8 @@ This data science project embarked on predicting obesity levels using machine le
 
 Remarkably, Decision Trees demonstrated comparable performance to Random Forests, while offering a more transparent decision-making process. Potential applications of this methodology include personalized healthcare and public health initiatives. It identifies factors that affect obesity, which could potentially improve treatment process for different groups.
 
-For more details, please refer to 'project.ipynb'
+
+
+- Dataset: https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
+
+- For more details, please refer to 'project.ipynb'
